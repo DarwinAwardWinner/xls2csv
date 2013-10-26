@@ -133,7 +133,7 @@ Print the usual program information
 =head1 DESCRIPTION
 
 This program will read a spreadsheet file and output one csv file for
-each worksseht in the input file. The name of each output file will be
+each worksheet in the input file. The name of each output file will be
 determined by the name of the input file and the name of the
 worksheet. For example, a worksheet "Sheet1" in a file called
 "reports.xls" will be output to "reports-Sheet1.csv".
