@@ -154,6 +154,10 @@ If you encounter a problem with this program, please email
 rct+perlbug@thompsonclan.org. Bug reports and other feedback are
 welcome.
 
-=head1 COPYRIGHT
+=head1 COPYRIGHT AND LICENSE
 
-Copyright (c) 2010, Ryan C. Thompson
+This software is copyright (c) 2010 by Ryan C. Thompson.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
